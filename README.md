@@ -1,4 +1,4 @@
-<!-- application running page -->
+# running app home page
 <img src="https://github.com/ash1198/reactjs_hello_world/blob/main/Screenshot%20(25).png" />
 
 # Getting Started with Create React App
