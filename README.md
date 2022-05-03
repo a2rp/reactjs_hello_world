@@ -1,3 +1,6 @@
+<!-- application running page -->
+<img src="https://github.com/ash1198/reactjs_hello_world/blob/main/Screenshot%20(25).png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
